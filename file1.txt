@@ -1,0 +1,11 @@
+#Git Commands Cheat Sheet
+
+##Basic Workflow
+```bash
+git init                         # Initialize a new Git repo
+git status                       # Check current status
+git add .                        # Stage all changes
+git add filename                 # Stage specific file
+git commit -m "message"          # Commit changes
+git push origin branch-name      # Push to remote
+
